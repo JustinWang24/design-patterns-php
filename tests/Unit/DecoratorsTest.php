@@ -6,9 +6,9 @@
  */
 
 use PHPUnit\Framework\TestCase;
-use Smartbro\impl\BasicService;
-use Smartbro\impl\AddOil;
-use Smartbro\impl\CleanWindow;
+use Smartbro\impl\decorator\BasicService;
+use Smartbro\impl\decorator\AddOil;
+use Smartbro\impl\decorator\CleanWindow;
 
 class DecoratorsTest extends TestCase
 {

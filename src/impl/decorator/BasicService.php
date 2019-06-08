@@ -7,8 +7,7 @@
  * Email: hi@yue.dev
  */
 
-namespace Smartbro\impl;
-
+namespace Smartbro\impl\decorator;
 
 use Smartbro\contracts\Decorator;
 

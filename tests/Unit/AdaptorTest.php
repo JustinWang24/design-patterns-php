@@ -15,7 +15,7 @@ use Smartbro\impl\adaptor\Nook;
 class Person{
     /**
      * 这个方法作为消费者 是不需要修改的。而达到此效果，是因为KindleAdaptor类
-     * 
+     *
      * @param BookInterface $book
      * @return bool
      */
